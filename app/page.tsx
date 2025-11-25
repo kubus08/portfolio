@@ -18,7 +18,7 @@ export default function Page() {
       <h1 className="mb-8 text-2xl font-medium">Portfolio template!</h1>
       <div className="prose prose-neutral dark:prose-invert">
         <p>
-          A clean, fast, and lightweight portfolio template built with Next.js,
+          A clean, slow, and lightweight portfolio template built with Next.js,
           Vercel, and Tailwind CSS.
         </p>
         <p>
